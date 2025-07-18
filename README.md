@@ -2,8 +2,6 @@
 
 # Olá, Tudo bom? Me chamo Vitor Hashimoto!
 
-
-
 🎓 Formado como técnico em Desenvolvimento de Sistemas e Estudante de Engenharia da computação. Interessado em **análise de dados**, **automobilismo** e **inovações tecnológicas**.  
 🚗 Apaixonado por projetos com **telemetria de corrida**, análise de performance e dashboards com Python.
 
