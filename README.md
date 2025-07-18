@@ -1,4 +1,4 @@
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/VitorHashimoto21?v=4">
+<img align="right" height="150" src="https://github.com/VitorHashimoto21.png">
 
 # Olá, Tudo bom? Me chamo Vitor Hashimoto!
 
