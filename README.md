@@ -1,4 +1,4 @@
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/YOUR_ID_HERE?v=4">
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/VitorHashimoto21?v=4">
 
 # Olá, Tudo bom? Me chamo Vitor Hashimoto!
 
@@ -36,4 +36,4 @@
 
 ---
 
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorhashimoto&show_icons=true&theme=tokyonight)
+![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorHashimoto21&show_icons=true&theme=tokyonight)
