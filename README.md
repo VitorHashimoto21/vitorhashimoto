@@ -1,5 +1,5 @@
 
-# Vitor Yoshikazu B. Hashimoto
+# Vitor Yoshikazu B. Hashimoto 
 <img align="right" height="150" src="https://github.com/VitorHashimoto21.png"><hr>
 
 🎓 Formado como técnico em Desenvolvimento de Sistemas e Estudante de Engenharia da computação. Interessado em **análise de dados**, **automobilismo** e **inovações tecnológicas**.  
